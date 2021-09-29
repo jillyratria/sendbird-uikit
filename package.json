@@ -45,18 +45,12 @@
   "peerDependencies": {
     "css-vars-ponyfill": "^2.3.2",
     "date-fns": "^2.16.1",
-    "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "sendbird": "^3.0.154"
+    "prop-types": "^15.7.2"
   },
   "dependencies": {
     "css-vars-ponyfill": "^2.3.2",
     "date-fns": "^2.16.1",
-    "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "sendbird": "^3.0.154"
+    "prop-types": "^15.7.2"
   },
   "bugs": {
     "url": "https://community.sendbird.com"
